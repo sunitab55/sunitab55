@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a penguins ethusiast waddling through the field of Data Science, and Machine Learning!
+I'm a penguins enthusiast waddling through the field of Data Science, and Machine Learning!
 I did my undergrad in Pure Math working on research topics in Representation Theory, Combinatorics and Number Theory!
 Currently, I'm pivoting to an applied aspect of Mathematics, hence Data Science, Statistics and Computer Science!
 I'm currently working on a sentiment analysis project of public perception based on news on the 2024 Presidential Candidates
