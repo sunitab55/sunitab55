@@ -4,6 +4,8 @@ I did my undergrad in Pure Math working on research topics in Representation The
 Currently, I'm pivoting to an applied aspect of Mathematics, hence Data Science, Statistics and Computer Science!
 I'm currently working on figuring out fitment from ebay-listings, it's a secret :P
 
+Side note: I recently found out there is a statistical feature called the "Bhattacharya distance" and it happens to be my last name. It measures the similarity between two probability distributions! https://www.linkedin.com/posts/danny-butvinik_artificialintelligence-machinelearning-statistics-activity-7078587042078597120-IQGr?utm_source=share&utm_medium=member_desktop
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atinusb/) 
