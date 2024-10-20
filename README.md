@@ -1,11 +1,13 @@
 # 💫 About Me:
-I'm a penguins enthusiast waddling through the field of Data Science, and Machine Learning!
-I did my undergrad in Pure Math working on research topics in Representation Theory, Combinatorics and Number Theory!
-Currently, I'm pivoting to an applied aspect of Mathematics, hence Data Science, Statistics and Computer Science!
-I'm currently working on figuring out fitment from ebay-listings, it's a secret :P
 
-Side note: I recently found out there is a statistical feature called the "Bhattacharyya distance" and it happens to be my last name. It measures the similarity between two probability distributions! https://en.wikipedia.org/wiki/Bhattacharyya_distance
+Hey I'm Subarna! I'm doing my master's in Data Science at UT Austin. Coming from an analytical background, I like to use numbers, math and data science in all kinds of unconventional settings. For example, in my last internship my manager casually told me that the department has a lot of septic system permit applications to go through beacuse they are manually approved. So, I came up with a proposal to use machine learning models to automate a part of this process!
 
+I'm also like the perspective of being a penguins enthusiast waddling through the field of Data Science, and Machine Learning! I did my undergrad in Pure Math working on research topics in Representation Theory, Combinatorics and Number Theory!
+
+# Fun Stuff
+There is a statistical feature called the "Bhattacharyya distance" and it happens to be my last name. It measures the similarity between two probability distributions! https://en.wikipedia.org/wiki/Bhattacharyya_distance
+
+I say my birthday is well defined because it's the only date in a year that is the combination of second largest prime date and second largest prime month. :D
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atinusb/) 
